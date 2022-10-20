@@ -7,5 +7,6 @@
 
 - [ ] visualise all outstaning work items
 
-
+- [ ] announcements
+- [ ] calendar invites
 
