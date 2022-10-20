@@ -5,7 +5,7 @@
 
 - [ ] run the discussion
 
-- [ ] visualise all outstaning work items
+- [ ] visualise all outstanding work items
 
 
 
