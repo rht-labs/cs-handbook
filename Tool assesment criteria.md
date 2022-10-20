@@ -7,5 +7,6 @@
 
 - [ ] visualise all outstanding work items
 
-
+- [ ] announcements
+- [ ] calendar invites
 
