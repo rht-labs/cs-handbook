@@ -6,4 +6,4 @@ To be the sherpas of open source, giving our customers, associates and partners 
 
 ## Our Mission
 
-To empower our associates and amplify our partners, creating Red Hat customers for life.
+To provide our customers with outstanding experiences and outcomes, allowing them to accelerate the time-to-value they seek from Red Hat's software, therby creating partners for life.
